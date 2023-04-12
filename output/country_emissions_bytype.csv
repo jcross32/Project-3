@@ -1,0 +1,415 @@
+"region","country","type","segment","emissions"
+"Africa","Algeria","Energy","Total",2669.194580078125
+"Africa","Algeria","Agriculture","Total",257.6112060546875
+"Africa","Algeria","Other","Total",6.475720882415772
+"Africa","Algeria","Waste","Total",510.9656066894531
+"Africa","Angola","Agriculture","Total",400.9695739746094
+"Africa","Angola","Energy","Total",568.7333374023438
+"Africa","Angola","Other","Total",81.70992279052734
+"Africa","Angola","Waste","Total",151.49404907226562
+"Africa","Benin","Agriculture","Total",105.69103240966795
+"Africa","Benin","Energy","Total",26.6285400390625
+"Africa","Benin","Other","Total",43.24774169921875
+"Africa","Benin","Waste","Total",42.10737228393555
+"Africa","Botswana","Other","Total",2.236912250518799
+"Africa","Botswana","Agriculture","Total",97.25849151611328
+"Africa","Botswana","Waste","Total",843.4016723632812
+"Africa","Botswana","Energy","Total",6.199222564697266
+"Africa","Cameroon","Energy","Total",216.560775756836
+"Africa","Cameroon","Waste","Total",194.51437377929688
+"Africa","Cameroon","Agriculture","Total",279.5312194824219
+"Africa","Cameroon","Other","Total",23.94275665283203
+"Africa","Central African Republic","Agriculture","Total",250.8168029785156
+"Africa","Central African Republic","Waste","Total",22.85633850097656
+"Africa","Central African Republic","Other","Total",173.46914672851562
+"Africa","Chad","Energy","Total",51.41695022583008
+"Africa","Chad","Waste","Total",70.19759368896484
+"Africa","Chad","Agriculture","Total",1223.9329833984375
+"Africa","Chad","Other","Total",13.205078125
+"Africa","Congo","Energy","Total",264.7666931152344
+"Africa","Congo","Waste","Total",30.08274269104004
+"Africa","Congo","Agriculture","Total",23.8709659576416
+"Africa","Congo","Other","Total",11.99696445465088
+"Africa","Cote d'Ivoire","Energy","Total",93.39645385742188
+"Africa","Cote d'Ivoire","Waste","Total",220.2355194091797
+"Africa","Cote d'Ivoire","Agriculture","Total",185.7007751464844
+"Africa","Cote d'Ivoire","Other","Total",28.767297744750977
+"Africa","Democratic Republic of Congo","Energy","Total",260.6929016113281
+"Africa","Democratic Republic of Congo","Agriculture","Total",555.5286865234375
+"Africa","Democratic Republic of Congo","Other","Total",201.8346710205078
+"Africa","Democratic Republic of Congo","Waste","Total",566.8305053710938
+"Africa","Egypt","Waste","Total",947.93408203125
+"Africa","Egypt","Agriculture","Total",684.5322265625
+"Africa","Egypt","Energy","Total",958.0424194335938
+"Africa","Egypt","Other","Total",12.003130912780762
+"Africa","Equatorial Guinea","Energy","Total",169.01870727539062
+"Africa","Equatorial Guinea","Waste","Total",11.922514915466309
+"Africa","Equatorial Guinea","Agriculture","Total",0.438739001750946
+"Africa","Equatorial Guinea","Other","Total",2.3649120330810547
+"Africa","Eritrea","Other","Total",2.5068612098693848
+"Africa","Eritrea","Agriculture","Total",120.17935180664062
+"Africa","Eritrea","Energy","Total",5.936958312988281
+"Africa","Eritrea","Waste","Total",24.038236618041992
+"Africa","Ethiopia","Other","Total",177.9381866455078
+"Africa","Ethiopia","Waste","Total",414.8589172363281
+"Africa","Ethiopia","Energy","Total",464.2127685546875
+"Africa","Ethiopia","Agriculture","Total",1910.0897216796875
+"Africa","Gabon","Energy","Total",248.5525665283203
+"Africa","Gabon","Waste","Total",21.208723068237305
+"Africa","Gabon","Agriculture","Total",5.590458393096924
+"Africa","Gabon","Other","Total",5.498744964599609
+"Africa","Gambia","Agriculture","Total",29.567506790161133
+"Africa","Gambia","Waste","Total",14.088419914245604
+"Africa","Gambia","Other","Total",3.931763887405396
+"Africa","Ghana","Other","Total",26.986873626708984
+"Africa","Ghana","Energy","Total",120.73609161376952
+"Africa","Ghana","Agriculture","Total",169.0322265625
+"Africa","Ghana","Waste","Total",159.3824005126953
+"Africa","Guinea","Other","Total",17.251436233520508
+"Africa","Guinea","Agriculture","Total",438.159423828125
+"Africa","Guinea","Energy","Total",0.0080000003799796
+"Africa","Guinea","Waste","Total",68.93671417236328
+"Africa","Guinea-Bissau","Other","Total",26.177602767944336
+"Africa","Guinea-Bissau","Agriculture","Total",52.83677673339844
+"Africa","Guinea-Bissau","Waste","Total",8.758500099182129
+"Africa","Kenya","Energy","Total",143.8259735107422
+"Africa","Kenya","Agriculture","Total",1250.951904296875
+"Africa","Kenya","Other","Total",34.40288162231445
+"Africa","Kenya","Waste","Total",180.646713256836
+"Africa","Liberia","Other","Total",15.316903114318848
+"Africa","Liberia","Agriculture","Total",9.208291053771973
+"Africa","Liberia","Waste","Total",19.37256050109864
+"Africa","Libya","Other","Total",3.0724658966064453
+"Africa","Libya","Energy","Total",1599.4412841796875
+"Africa","Libya","Waste","Total",83.35655975341797
+"Africa","Libya","Agriculture","Total",67.41584777832031
+"Africa","Morocco","Other","Total",6.258478164672852
+"Africa","Morocco","Energy","Total",22.181472778320312
+"Africa","Morocco","Agriculture","Total",295.3795166015625
+"Africa","Morocco","Waste","Total",405.1220397949219
+"Africa","Mozambique","Other","Total",106.01947784423828
+"Africa","Mozambique","Agriculture","Total",210.65399169921875
+"Africa","Mozambique","Energy","Total",227.3558959960937
+"Africa","Mozambique","Waste","Total",155.7392578125
+"Africa","Namibia","Other","Total",1.329381227493286
+"Africa","Namibia","Agriculture","Total",181.9879150390625
+"Africa","Namibia","Energy","Total",2.631089210510254
+"Africa","Namibia","Waste","Total",15.859238624572754
+"Africa","Niger","Energy","Total",40.86768341064453
+"Africa","Niger","Agriculture","Total",696.4396362304688
+"Africa","Niger","Waste","Total",152.30502319335938
+"Africa","Niger","Other","Total",10.043743133544922
+"Africa","Nigeria","Energy","Total",3306.0712890625
+"Africa","Nigeria","Agriculture","Total",2082.188232421875
+"Africa","Nigeria","Other","Total",347.1287841796875
+"Africa","Nigeria","Waste","Total",862.4360961914062
+"Africa","Senegal","Energy","Total",13.024876594543455
+"Africa","Senegal","Agriculture","Total",261.5225524902344
+"Africa","Senegal","Other","Total",4.177417755126953
+"Africa","Senegal","Waste","Total",101.4332275390625
+"Africa","Seychelles","Other","Total",0.0518720373511314
+"Africa","Seychelles","Agriculture","Total",0.078720711171627
+"Africa","Seychelles","Waste","Total",2.491305351257324
+"Africa","Sierra Leone","Agriculture","Total",86.26763916015625
+"Africa","Sierra Leone","Other","Total",9.578605651855469
+"Africa","Sierra Leone","Waste","Total",49.99830627441406
+"Africa","Somalia","Agriculture","Total",625.7147827148438
+"Africa","Somalia","Energy","Total",29.507999420166016
+"Africa","Somalia","Other","Total",23.82088088989257
+"Africa","Somalia","Waste","Total",108.4111557006836
+"Africa","South Africa","Energy","Total",1239.0296630859375
+"Africa","South Africa","Agriculture","Total",760.32275390625
+"Africa","South Africa","Other","Total",42.40746307373047
+"Africa","South Africa","Waste","Total",834.2140502929688
+"Africa","South Sudan","Agriculture","Total",695.7181396484375
+"Africa","South Sudan","Waste","Total",121.76155090332033
+"Africa","South Sudan","Energy","Total",76.9888916015625
+"Africa","South Sudan","Other","Total",3.3333332538604736
+"Africa","Sudan","Agriculture","Total",1549.11083984375
+"Africa","Sudan","Energy","Total",143.06582641601562
+"Africa","Sudan","Other","Total",36.831764221191406
+"Africa","Sudan","Waste","Total",233.21359252929688
+"Africa","Tanzania","Waste","Total",227.552978515625
+"Africa","Tanzania","Agriculture","Total",1180.221923828125
+"Africa","Tanzania","Energy","Total",203.3902282714844
+"Africa","Tanzania","Other","Total",1225.0953369140625
+"Africa","Togo","Waste","Total",37.90462112426758
+"Africa","Togo","Agriculture","Total",50.73590850830078
+"Africa","Togo","Other","Total",9.78065299987793
+"Africa","Togo","Energy","Total",19.2255916595459
+"Africa","Tunisia","Agriculture","Total",97.72246551513672
+"Africa","Tunisia","Energy","Total",77.23422241210938
+"Africa","Tunisia","Other","Total",4.220635890960693
+"Africa","Tunisia","Waste","Total",108.2469711303711
+"Asia Pacific","Australia","Agriculture","Total",2450.463134765625
+"Asia Pacific","Australia","Energy","Total",2232.23876953125
+"Asia Pacific","Australia","Other","Total",241.8041534423828
+"Asia Pacific","Australia","Waste","Total",619.0491333007812
+"Asia Pacific","Bangladesh","Energy","Total",334.3358459472656
+"Asia Pacific","Bangladesh","Waste","Total",825.30224609375
+"Asia Pacific","Bangladesh","Agriculture","Total",2410.234375
+"Asia Pacific","Bangladesh","Other","Total",54.36891174316406
+"Asia Pacific","Brunei","Other","Total",0.2182318568229675
+"Asia Pacific","Brunei","Agriculture","Total",0.8412342667579651
+"Asia Pacific","Brunei","Energy","Total",43.50729370117188
+"Asia Pacific","Brunei","Waste","Total",9.676277160644531
+"Asia Pacific","China","Agriculture","Total",18501.9140625
+"Asia Pacific","China","Other","Total",1377.8709716796875
+"Asia Pacific","China","Energy","Total",25372.22265625
+"Asia Pacific","China","Waste","Total",10424.1416015625
+"Asia Pacific","India","Other","Total",571.2567138671875
+"Asia Pacific","India","Agriculture","Total",18358.517578125
+"Asia Pacific","India","Energy","Total",5185.236328125
+"Asia Pacific","India","Waste","Total",5551.7607421875
+"Asia Pacific","Indonesia","Other","Total",1156.4476318359375
+"Asia Pacific","Indonesia","Agriculture","Total",3518.344482421875
+"Asia Pacific","Indonesia","Energy","Total",5080.369140625
+"Asia Pacific","Indonesia","Waste","Total",4568.9384765625
+"Asia Pacific","Japan","Other","Total",21.91791725158692
+"Asia Pacific","Japan","Agriculture","Total",991.6493530273438
+"Asia Pacific","Japan","Energy","Total",283.3003234863281
+"Asia Pacific","Japan","Waste","Total",243.30145263671875
+"Asia Pacific","Korea","Other","Total",28.59282493591309
+"Asia Pacific","Korea","Agriculture","Total",508.4415588378906
+"Asia Pacific","Korea","Energy","Total",200.3266448974609
+"Asia Pacific","Korea","Waste","Total",527.2578125
+"Asia Pacific","Malaysia","Other","Total",27.7065544128418
+"Asia Pacific","Malaysia","Agriculture","Total",189.0501708984375
+"Asia Pacific","Malaysia","Energy","Total",474.0210876464844
+"Asia Pacific","Malaysia","Waste","Total",893.9114379882812
+"Asia Pacific","Mongolia","Energy","Total",216.8521881103516
+"Asia Pacific","Mongolia","Agriculture","Total",549.2429809570312
+"Asia Pacific","Mongolia","Other","Total",6.77065896987915
+"Asia Pacific","Mongolia","Waste","Total",16.66093635559082
+"Asia Pacific","New Zealand","Waste","Total",165.2618865966797
+"Asia Pacific","New Zealand","Energy","Total",37.33414077758789
+"Asia Pacific","New Zealand","Agriculture","Total",1155.9993896484375
+"Asia Pacific","New Zealand","Other","Total",8.055159568786621
+"Asia Pacific","Other countries in Southeast Asia","Waste","Total",436.8053588867188
+"Asia Pacific","Other countries in Southeast Asia","Agriculture","Total",3300.293701171875
+"Asia Pacific","Other countries in Southeast Asia","Energy","Total",527.3272094726562
+"Asia Pacific","Other countries in Southeast Asia","Other","Total",149.16900634765625
+"Asia Pacific","Pakistan","Agriculture","Total",5319.4560546875
+"Asia Pacific","Pakistan","Energy","Total",920.3993530273438
+"Asia Pacific","Pakistan","Other","Total",156.03668212890625
+"Asia Pacific","Pakistan","Waste","Total",854.3361206054688
+"Asia Pacific","Philippines","Waste","Total",649.79248046875
+"Asia Pacific","Philippines","Agriculture","Total",1714.848876953125
+"Asia Pacific","Philippines","Energy","Total",116.43431091308594
+"Asia Pacific","Philippines","Other","Total",52.23356628417969
+"Asia Pacific","Thailand","Agriculture","Total",2078.933837890625
+"Asia Pacific","Thailand","Energy","Total",535.2486572265625
+"Asia Pacific","Thailand","Waste","Total",703.9661254882812
+"Asia Pacific","Thailand","Other","Total",56.79174041748047
+"Asia Pacific","Vietnam","Waste","Total",783.7750244140625
+"Asia Pacific","Vietnam","Agriculture","Total",2193.2626953125
+"Asia Pacific","Vietnam","Energy","Total",60.93199920654297
+"Asia Pacific","Vietnam","Other","Total",34.768653869628906
+"Central and South America","Argentina","Waste","Total",705.7312622070312
+"Central and South America","Argentina","Energy","Total",1307.0936279296875
+"Central and South America","Argentina","Agriculture","Total",3152.9326171875
+"Central and South America","Argentina","Other","Total",85.4056396484375
+"Central and South America","Bolivia","Energy","Total",128.09658813476562
+"Central and South America","Bolivia","Agriculture","Total",673.754150390625
+"Central and South America","Bolivia","Other","Total",146.38304138183594
+"Central and South America","Bolivia","Waste","Total",87.08856201171875
+"Central and South America","Brazil","Other","Total",387.7013854980469
+"Central and South America","Brazil","Agriculture","Total",14020.0888671875
+"Central and South America","Brazil","Waste","Total",3800.05712890625
+"Central and South America","Brazil","Energy","Total",1756.495361328125
+"Central and South America","Colombia","Energy","Total",778.1613159179688
+"Central and South America","Colombia","Waste","Total",643.7293090820312
+"Central and South America","Colombia","Agriculture","Total",1795.9031982421875
+"Central and South America","Colombia","Other","Total",17.213926315307617
+"Central and South America","Cuba","Energy","Total",21.06509017944336
+"Central and South America","Cuba","Waste","Total",160.3751678466797
+"Central and South America","Cuba","Agriculture","Total",267.4549255371094
+"Central and South America","Cuba","Other","Total",2.341588258743286
+"Central and South America","Ecuador","Energy","Total",277.0992736816406
+"Central and South America","Ecuador","Waste","Total",235.403060913086
+"Central and South America","Ecuador","Agriculture","Total",359.8713684082031
+"Central and South America","Ecuador","Other","Total",3.937007188796997
+"Central and South America","Guyana","Other","Total",1.915329933166504
+"Central and South America","Guyana","Energy","Total",47.569732666015625
+"Central and South America","Guyana","Agriculture","Total",57.39715576171875
+"Central and South America","Guyana","Waste","Total",8.31496524810791
+"Central and South America","Paraguay","Other","Total",13.040079116821287
+"Central and South America","Paraguay","Agriculture","Total",835.0689086914062
+"Central and South America","Paraguay","Energy","Total",16.34809112548828
+"Central and South America","Paraguay","Waste","Total",115.26103973388672
+"Central and South America","Peru","Other","Total",50.463600158691406
+"Central and South America","Peru","Agriculture","Total",639.6949462890625
+"Central and South America","Peru","Energy","Total",131.71063232421875
+"Central and South America","Peru","Waste","Total",355.07745361328125
+"Central and South America","Trinidad and Tobago","Waste","Total",62.29243469238281
+"Central and South America","Trinidad and Tobago","Agriculture","Total",4.345527648925781
+"Central and South America","Trinidad and Tobago","Energy","Total",209.22000122070312
+"Central and South America","Trinidad and Tobago","Other","Total",5.858375072479248
+"Central and South America","Uruguay","Other","Total",3.5114591121673584
+"Central and South America","Uruguay","Agriculture","Total",751.9459228515625
+"Central and South America","Uruguay","Waste","Total",138.26727294921875
+"Central and South America","Uruguay","Energy","Total",7.599424362182617
+"Central and South America","Venezuela","Agriculture","Total",1015.0640869140624
+"Central and South America","Venezuela","Waste","Total",379.9532775878906
+"Central and South America","Venezuela","Energy","Total",2642.70361328125
+"Central and South America","Venezuela","Other","Total",10.820260047912598
+"Europe","Denmark","Energy","Total",41.51583480834961
+"Europe","Denmark","Agriculture","Total",240.09361267089844
+"Europe","Denmark","Other","Total",5.735045909881592
+"Europe","Denmark","Waste","Total",40.26875686645508
+"Europe","Estonia","Waste","Total",37.32962417602539
+"Europe","Estonia","Agriculture","Total",27.72345733642578
+"Europe","Estonia","Energy","Total",11.624244689941406
+"Europe","Estonia","Other","Total",2.18104100227356
+"Europe","European Union","Other","Total",290.8985595703125
+"Europe","European Union","Agriculture","Total",8851.337890625
+"Europe","European Union","Energy","Total",2760.969970703125
+"Europe","European Union","Waste","Total",4320.9970703125
+"Europe","France","Energy","Total",193.59646606445312
+"Europe","France","Waste","Total",630.8741455078125
+"Europe","France","Agriculture","Total",1564.2218017578125
+"Europe","France","Other","Total",39.94035720825195
+"Europe","Germany","Energy","Total",353.0937194824219
+"Europe","Germany","Agriculture","Total",1269.36865234375
+"Europe","Germany","Other","Total",67.88993072509766
+"Europe","Germany","Waste","Total",605.1366577148438
+"Europe","Israel","Other","Total",0.6706947088241577
+"Europe","Israel","Waste","Total",282.4595642089844
+"Europe","Israel","Agriculture","Total",39.840087890625
+"Europe","Israel","Energy","Total",43.2089958190918
+"Europe","Italy","Other","Total",30.06378936767578
+"Europe","Italy","Agriculture","Total",800.047119140625
+"Europe","Italy","Energy","Total",285.7864685058594
+"Europe","Italy","Waste","Total",579.596923828125
+"Europe","Netherlands","Other","Total",15.82078742980957
+"Europe","Netherlands","Waste","Total",137.8373260498047
+"Europe","Netherlands","Agriculture","Total",466.8436584472656
+"Europe","Netherlands","Energy","Total",29.25938034057617
+"Europe","Norway","Agriculture","Total",103.60773468017578
+"Europe","Norway","Other","Total",5.547865867614746
+"Europe","Norway","Waste","Total",46.46012496948242
+"Europe","Norway","Energy","Total",41.1037712097168
+"Europe","Other EU17 countries","Other","Total",98.36200714111328
+"Europe","Other EU17 countries","Agriculture","Total",2811.933837890625
+"Europe","Other EU17 countries","Waste","Total",1850.4228515625
+"Europe","Other EU17 countries","Energy","Total",600.064453125
+"Europe","Other EU7 countries","Energy","Total",55.59594345092773
+"Europe","Other EU7 countries","Waste","Total",249.8030548095703
+"Europe","Other EU7 countries","Agriculture","Total",139.63568115234375
+"Europe","Other EU7 countries","Other","Total",8.988862991333008
+"Europe","Other countries in Europe","Agriculture","Total",2284.248779296875
+"Europe","Other countries in Europe","Energy","Total",448.1883544921875
+"Europe","Other countries in Europe","Waste","Total",2321.68505859375
+"Europe","Other countries in Europe","Other","Total",84.71975708007812
+"Europe","Poland","Other","Total",44.48818588256836
+"Europe","Poland","Agriculture","Total",615.5054321289062
+"Europe","Poland","Waste","Total",347.61395263671875
+"Europe","Poland","Energy","Total",865.2888793945312
+"Europe","Romania","Energy","Total",285.4109191894531
+"Europe","Romania","Agriculture","Total",367.9289245605469
+"Europe","Romania","Other","Total",11.696823120117188
+"Europe","Romania","Waste","Total",244.40768432617188
+"Europe","Slovenia","Energy","Total",7.726953983306885
+"Europe","Slovenia","Other","Total",1.593956470489502
+"Europe","Slovenia","Waste","Total",17.910375595092773
+"Europe","Slovenia","Agriculture","Total",48.42922592163086
+"Europe","Sweden","Agriculture","Total",128.65838623046875
+"Europe","Sweden","Waste","Total",159.8013458251953
+"Europe","Sweden","Energy","Total",31.990554809570312
+"Europe","Sweden","Other","Total",10.069866180419922
+"Europe","Ukraine","Energy","Total",553.4212036132812
+"Europe","Ukraine","Waste","Total",401.859619140625
+"Europe","Ukraine","Agriculture","Total",377.1493225097656
+"Europe","Ukraine","Other","Total",71.82522583007812
+"Europe","United Kingdom","Energy","Total",274.63140869140625
+"Europe","United Kingdom","Waste","Total",1113.1412353515625
+"Europe","United Kingdom","Agriculture","Total",1064.6658935546875
+"Europe","United Kingdom","Other","Total",64.70419311523438
+"Middle East","Bahrain","Energy","Total",190.6852569580078
+"Middle East","Bahrain","Waste","Total",172.3936004638672
+"Middle East","Bahrain","Agriculture","Total",0.9645923376083374
+"Middle East","Bahrain","Other","Total",1.48150372505188
+"Middle East","Iran","Energy","Total",5629.822265625
+"Middle East","Iran","Waste","Total",931.3856201171876
+"Middle East","Iran","Agriculture","Total",802.454345703125
+"Middle East","Iran","Other","Total",37.20094299316406
+"Middle East","Iraq","Agriculture","Total",168.22393798828125
+"Middle East","Iraq","Other","Total",3.4219236373901367
+"Middle East","Iraq","Waste","Total",362.1964721679688
+"Middle East","Iraq","Energy","Total",2515.052734375
+"Middle East","Jordan","Agriculture","Total",25.815542221069336
+"Middle East","Jordan","Waste","Total",200.5210418701172
+"Middle East","Jordan","Energy","Total",47.20696640014648
+"Middle East","Jordan","Other","Total",0.5782174468040466
+"Middle East","Kuwait","Energy","Total",1002.0822143554688
+"Middle East","Kuwait","Waste","Total",257.99493408203125
+"Middle East","Kuwait","Agriculture","Total",7.323050498962402
+"Middle East","Kuwait","Other","Total",0.8249784111976624
+"Middle East","Lebanon","Energy","Total",4.712915897369385
+"Middle East","Lebanon","Waste","Total",112.2239990234375
+"Middle East","Lebanon","Agriculture","Total",12.067669868469238
+"Middle East","Lebanon","Other","Total",0.7648441195487976
+"Middle East","Oman","Agriculture","Total",37.05989837646485
+"Middle East","Oman","Energy","Total",869.2565307617188
+"Middle East","Oman","Other","Total",9.764742851257324
+"Middle East","Oman","Waste","Total",64.55561828613281
+"Middle East","Qatar","Waste","Total",64.40309143066406
+"Middle East","Qatar","Energy","Total",1138.517822265625
+"Middle East","Qatar","Agriculture","Total",11.3685884475708
+"Middle East","Qatar","Other","Total",5.521563529968262
+"Middle East","Saudi Arabia","Other","Total",27.8301010131836
+"Middle East","Saudi Arabia","Agriculture","Total",121.0209732055664
+"Middle East","Saudi Arabia","Energy","Total",3051.0966796875
+"Middle East","Saudi Arabia","Waste","Total",955.779541015625
+"Middle East","Syria","Other","Total",1.1841530799865725
+"Middle East","Syria","Agriculture","Total",133.05282592773438
+"Middle East","Syria","Energy","Total",237.66441345214844
+"Middle East","Syria","Waste","Total",169.2044219970703
+"Middle East","United Arab Emirates","Other","Total",2.969593048095703
+"Middle East","United Arab Emirates","Agriculture","Total",47.43784332275391
+"Middle East","United Arab Emirates","Energy","Total",1439.1328125
+"Middle East","United Arab Emirates","Waste","Total",462.6634826660156
+"Middle East","Yemen","Other","Total",0.5342848896980286
+"Middle East","Yemen","Agriculture","Total",181.29298400878903
+"Middle East","Yemen","Energy","Total",145.18161010742188
+"Middle East","Yemen","Waste","Total",161.4936981201172
+"North America","Canada","Agriculture","Total",1072.710693359375
+"North America","Canada","Other","Total",42.62068176269531
+"North America","Canada","Waste","Total",897.9652709960938
+"North America","Canada","Energy","Total",2548.3984375
+"North America","Mexico","Energy","Total",1581.3292236328125
+"North America","Mexico","Agriculture","Total",2420.791015625
+"North America","Mexico","Other","Total",54.36140441894531
+"North America","Mexico","Waste","Total",1994.62744140625
+"North America","United States","Agriculture","Total",9409.3251953125
+"North America","United States","Energy","Total",16769.630859375
+"North America","United States","Other","Total",538.3626098632812
+"North America","United States","Waste","Total",5117.92822265625
+"Other","Other","Agriculture","Total",7259.01416015625
+"Other","Other","Energy","Total",2420.8798828125
+"Other","Other","Other","Total",682.0879516601562
+"Other","Other","Waste","Total",3214.4951171875
+"Russia & Caspian","Azerbaijan","Agriculture","Total",195.1975250244141
+"Russia & Caspian","Azerbaijan","Energy","Total",323.2549743652344
+"Russia & Caspian","Azerbaijan","Other","Total",0.96043461561203
+"Russia & Caspian","Azerbaijan","Waste","Total",104.27503204345705
+"Russia & Caspian","Kazakhstan","Agriculture","Total",762.0980834960938
+"Russia & Caspian","Kazakhstan","Energy","Total",2740.561279296875
+"Russia & Caspian","Kazakhstan","Other","Total",17.407060623168945
+"Russia & Caspian","Kazakhstan","Waste","Total",198.9350128173828
+"Russia & Caspian","Russia","Agriculture","Total",2022.095947265625
+"Russia & Caspian","Russia","Energy","Total",18078.083984375
+"Russia & Caspian","Russia","Other","Total",323.421630859375
+"Russia & Caspian","Russia","Waste","Total",3931.244384765625
+"Russia & Caspian","Turkmenistan","Agriculture","Total",304.87176513671875
+"Russia & Caspian","Turkmenistan","Energy","Total",4740.041015625
+"Russia & Caspian","Turkmenistan","Other","Total",1.4148011207580566
+"Russia & Caspian","Turkmenistan","Waste","Total",48.02981185913086
+"Russia & Caspian","Uzbekistan","Agriculture","Total",901.6826171875
+"Russia & Caspian","Uzbekistan","Energy","Total",780.9161376953125
+"Russia & Caspian","Uzbekistan","Other","Total",3.845616340637207
+"Russia & Caspian","Uzbekistan","Waste","Total",280.4182434082031
+"World","World","Agriculture","Total",141953.765625
+"World","World","Waste","Total",70758.7109375
+"World","World","Other","Total",9737.8740234375
+"World","World","Energy","Total",133350.984375
