@@ -19,7 +19,7 @@ engine = create_engine(f'postgresql+psycopg2://{username}:{password}@{hostname}:
 @app.route("/api/v1.0/emissions")
 def emissions():
     conn = engine.connect()
-    query = "SELECT region, segment, sum(emissions) FROM emissions WHERE segment = 'Total' GROUP BY region, segment ORDER BY region ASC"
+    query = "SELECT region, segment, sum(emissions) FROM emissions WHERE segment = 'Total' AND region != 'World' GROUP BY region, segment ORDER BY region ASC"
     df = pd.read_sql(query, conn)
     print(df)
     return df.to_json(orient="records")
