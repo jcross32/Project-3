@@ -16,7 +16,11 @@ We started by using Python to clean the initial .csv dataset.
 
 Once we had the initial dataframe created, we double checked for null values.
 
-Then, we created a SQL database for our information. 
+![image](https://user-images.githubusercontent.com/118831989/233210843-d0a62d59-4522-4069-84e7-b670946d1089.png)
+
+Then, we created a SQL database for our information.
+
+![image](https://user-images.githubusercontent.com/118831989/233210892-ce7acb28-d82e-4fd3-850e-98f52c9721ec.png)
 
 Once we had the database in place, we built an API that pulls the information from that database. 
 
