@@ -37,10 +37,6 @@ We also created a World Map showing the emissions levels.
 ![image](https://user-images.githubusercontent.com/118831989/233219464-54921b7c-534b-4552-b769-c51f0406eaa2.png)
 
 
-
-## Usage
-
-
 ## Contributing
 - Erick Adame
 - Joshua Cross
