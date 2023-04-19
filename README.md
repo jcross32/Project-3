@@ -26,6 +26,14 @@ Once we had the database in place, we built an API that pulls the information fr
 
 At that point we were able to put it all together using HTML and Javascript to allow our information to be viewed dynamically.
 
+We created a pie chart showing some of our data.
+
+![image](https://user-images.githubusercontent.com/118831989/233219309-f9f48b21-1ce1-41ed-9327-f4f8a30e1fa4.png)
+
+We also created a World Map showing the emission levels.
+
+![image](https://user-images.githubusercontent.com/118831989/233219464-54921b7c-534b-4552-b769-c51f0406eaa2.png)
+
 ## Usage
 
 
