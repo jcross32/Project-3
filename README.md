@@ -14,7 +14,7 @@ This project takes in a large amount of global emissions data for the entire wor
 
 
 ## Contributing
-Erick Adame
-Joshua Cross
-Grant Lange
-Xiao Li
+- Erick Adame
+- Joshua Cross
+- Grant Lange
+- Xiao Li
