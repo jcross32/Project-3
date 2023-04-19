@@ -4,7 +4,6 @@ Emissions Project for Project 3
 ## Table of Contents
 
 - [About](#about)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## About
