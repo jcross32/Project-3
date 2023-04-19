@@ -24,6 +24,14 @@ def emissions():
     print(df)
     return df.to_json(orient="records")
 
+@app.route("/api/v1.0/regions")
+def regions():
+    conn = engine.connect()
+    query = "SELECT region, type, sum(emissions) FROM emissions WHERE segment = 'Total' GROUP BY region, type ORDER BY region ASC"
+    df = pd.read_sql(query, conn)
+    print(df)
+    return df.to_json(orient="records")
+
 @app.route("/")
 def home():
 
@@ -32,21 +40,24 @@ def home():
 def worldmap():
     return render_template('worldmap.html')
 
+@app.route('/piecharts')
+def piecharts():
+    return render_template('regionpies.html')
 
-@app.route("/dashboard")
-def dashboard():
-    # TO DO - get data from database
-    # TO DO - pass data  to clean using sql query 
-    # CONVERT TO A BUNCH OF LISTS 
+# @app.route("/dashboard")
+# def dashboard():
+#     # TO DO - get data from database
+#     # TO DO - pass data  to clean using sql query 
+#     # CONVERT TO A BUNCH OF LISTS 
 
-    # SEND TO DASHBOARD.HTML
-    data = {
-        "width": [1,2,2,3,4,5],
-        "length": [10,20,30,40,50,60],
-    }
+#     # SEND TO DASHBOARD.HTML
+#     data = {
+#         "width": [1,2,2,3,4,5],
+#         "length": [10,20,30,40,50,60],
+#     }
 
-    name = "Drew"
-    return render_template("dashboard.html", petals=data, name=name)
+#     name = "Drew"
+#     return render_template("dashboard.html", petals=data, name=name)
 
 
 # @app.route("/api/v1.0/sumpetals")

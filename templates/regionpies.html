@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Regions Dropdown</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h2>Emissions by Region in the World</h2>
+    <p>Total emissions is broken down by type and measured in kilotons. Data is from 2019-2022.</p>
+    <select id="selDataset">
+        <option value="africa">Africa</option>
+        <option value="asiaPacific">Asia Pacific</option>
+        <option value="centralSouthAmerica">Central & South America</option>
+        <option value="europe">Europe</option>
+        <option value="middleEast">Middle East</option>
+        <option value="northAmerica">North America</option>
+        <option value="russiaCaspian">Russia & Caspian</option>
+        <option value="other">Other</option>
+        <option value="world">World</option>
+
+    </select>
+
+    <div id="pie"></div>
+
+    <!-- <p>Data Sources:<br />
+        <ul>
+            <li>
+                <a href="https://data.worldbank.org/indicator/NE.CON.GOVT.ZS">General government final consumption expenditure (% of GDP)</a>
+            </li>
+            <li>
+                <a href="https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS">Government expenditure on education, total (% of GDP)</a>
+            </li>
+            <li>
+                <a href="https://data.worldbank.org/indicator/SH.XPD.GHED.GD.ZS">Domestic general government health expenditure (% of GDP)</a>
+            </li>
+            <li>
+                <a href="https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS">Research and development expenditure (% of GDP)</a>
+            </li>
+            <li>
+                <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD">GDP (current US$)</a>
+            </li>
+            </ul>
+    </p> -->
+    <script src="http://127.0.0.1:5000/api/v1.0/regions"></script>
+    <script type="text/javascript" src="./static/regionpies.js"></script>
+</body>
+</html>
