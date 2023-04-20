@@ -4,7 +4,6 @@ Emissions Project for Project 3
 ## Table of Contents
 
 - [About](#about)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## About
@@ -26,8 +25,11 @@ Once we had the database in place, we built an API that pulls the information fr
 
 At that point we were able to put it all together using HTML and Javascript to allow our information to be viewed dynamically.
 
-## Usage
+![image](https://user-images.githubusercontent.com/118831989/233504495-4c39df71-e158-4182-9cd5-43da0e0e6ea1.png)
 
+We were able to create a dynamic pie chart and bar chart using our data.
+
+![image](https://user-images.githubusercontent.com/118831989/233504569-5cfc8b10-b1bd-495c-831b-e18473f96453.png)
 
 ## Contributing
 - Erick Adame
