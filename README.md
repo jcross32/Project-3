@@ -35,6 +35,9 @@ We also created a World Map showing the emissions levels.
 
 ![image](https://user-images.githubusercontent.com/118831989/233219464-54921b7c-534b-4552-b769-c51f0406eaa2.png)
 
+Our last visualization is showing the types of methane emissions in our data.
+
+![image](https://user-images.githubusercontent.com/118831989/233228216-bd9b153c-5cde-492c-b8f6-96f6bcbc614f.png)
 
 ## Contributing
 - Erick Adame
