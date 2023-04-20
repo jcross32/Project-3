@@ -4,6 +4,7 @@ Emissions Project for Project 3
 ## Table of Contents
 
 - [About](#about)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## About
@@ -21,23 +22,12 @@ Then, we created a SQL database for our information.
 
 ![image](https://user-images.githubusercontent.com/118831989/233210892-ce7acb28-d82e-4fd3-850e-98f52c9721ec.png)
 
-Once we had the database in place, we built an API that pulls the information from that database.
+Once we had the database in place, we built an API that pulls the information from that database. 
 
-![image](https://user-images.githubusercontent.com/118831989/233220989-d844f152-73c4-4829-abf6-fe0aca1f3ccf.png)
+At that point we were able to put it all together using HTML and Javascript to allow our information to be viewed dynamically.
 
-At that point we were able to put it all together using HTML and Javascript to allow our information to be viewed dynamically through a locally hosted browser session.
+## Usage
 
-We created a pie chart showing some of our data.
-
-![image](https://user-images.githubusercontent.com/118831989/233219309-f9f48b21-1ce1-41ed-9327-f4f8a30e1fa4.png)
-
-We also created a World Map showing the emissions levels.
-
-![image](https://user-images.githubusercontent.com/118831989/233219464-54921b7c-534b-4552-b769-c51f0406eaa2.png)
-
-Our last visualization is showing the types of methane emissions in our data.
-
-![image](https://user-images.githubusercontent.com/118831989/233228216-bd9b153c-5cde-492c-b8f6-96f6bcbc614f.png)
 
 ## Contributing
 - Erick Adame
